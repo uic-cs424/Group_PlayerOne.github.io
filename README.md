@@ -10,6 +10,9 @@ https://github.com/uic-cs424/Group_PlayerOne.github.io/blob/a8679e3556c47c214afd
 
 Sample:
 
+![image](https://github.com/uic-cs424/Group_PlayerOne.github.io/assets/116875233/b7101cc6-83b6-42f5-8d41-a206d17b2cdb)
+
+
 ## Visualization 2:
 
 Link:
