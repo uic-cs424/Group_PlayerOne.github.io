@@ -4,7 +4,7 @@
 
 ## Visualization 1:
 
-Link: [Single View Visualization](https://www.example.com](https://github.com/uic-cs424/Group_PlayerOne.github.io/blob/a8679e3556c47c214afdc9e6b0dda7c183396344/Single%20View%20Visualization.html)
+Link: [Single View Visualization]([https://www.example.com](https://github.com/uic-cs424/Group_PlayerOne.github.io/blob/a8679e3556c47c214afdc9e6b0dda7c183396344/Single%20View%20Visualization.html])
 
 Sample:
 
