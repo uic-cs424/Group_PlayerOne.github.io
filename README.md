@@ -24,3 +24,11 @@ Sample (JPG):
 
 
 ## Visualization 3:
+
+Link: 
+
+[Multiple View 2](https://github.com/uic-cs424/Group_PlayerOne.github.io/blob/619aa30ab32b7c5ab8dcd15a6f7f577fe6a68619/Multiple%20View%20Visualization%202.html)
+
+Sample:
+
+![image](https://github.com/uic-cs424/Group_PlayerOne.github.io/assets/116875233/003c4562-a17a-4e11-a947-afa22ac36df1)
