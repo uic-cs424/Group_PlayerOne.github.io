@@ -18,4 +18,7 @@ https://github.com/uic-cs424/Group_PlayerOne.github.io/blob/67c160d453b429c8212d
 
 Sample:
 
+![image](https://github.com/uic-cs424/Group_PlayerOne.github.io/assets/116875233/25258b1d-a189-4b6f-adbd-e94964ed9452)
+
+
 ## Visualization 3:
